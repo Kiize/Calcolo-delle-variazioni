@@ -1,0 +1,45 @@
+\documentclass[a4paper]{book}
+
+%PACKAGES
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[italian]{babel}
+\usepackage{amsfonts} 
+\usepackage{amssymb} 
+\usepackage{amsmath}
+\usepackage{amsthm}		%teoremi
+\usepackage{graphicx}	%immagini
+\usepackage{setspace}	%interlinea
+\usepackage{tikz}		%disegnare immagini
+\onehalfspacing
+
+
+%THEOREMS, ...
+\theoremstyle{definition}
+\newtheorem{ex}{Esempio}
+\newtheorem{defn}{Definizione}
+
+\theoremstyle{remark}
+\newtheorem{oss}{Osservazione}
+\newtheorem{dimst}{Dimostrazione}
+\newtheorem{idea}{Idea}
+
+\theoremstyle{definition}
+\newtheorem{lem}{Lemma}
+\newtheorem{teo}{Teorema}
+
+
+%NEW COMMANDS
+\newcommand{\bbx}{\mathbb{X}}
+\newcommand{\bbr}{\mathbb{R}}
+\newcommand{\ra}{\Rightarrow}
+\newcommand{\vp}{\varphi}
+
+\begin{document}
+
+\begin{tikzpicture}
+\draw[->] (-1, 0)  -- (2.5, 0);
+\draw[->] (0, -1)  -- (0, 1.5);
+\draw (0, 1) node[anchor = north east] {1} .. controls (1/4, 1/6) and (3/2, 1/8) .. (2, 0) node[anchor = south west]{b};
+\end{tikzpicture}
+\end{document}

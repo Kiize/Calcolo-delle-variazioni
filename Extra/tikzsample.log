@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.17)  2 AUG 2021 17:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=pdflatex 2021.4.17)  28 APR 2021 22:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**CalcVar.tex
-(./CalcVar.tex
+**tikzsample.tex
+(./tikzsample.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18>
 (c:/texlive/2021/texmf-dist/tex/latex/base/book.cls
@@ -447,45 +447,44 @@ File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \c@idea=\count297
 \c@lem=\count298
 \c@teo=\count299
-\c@prop=\count300
-\c@coroll=\count301
 
 (c:/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count302
+\l__color_backend_stack_int=\count300
 \l__pdf_internal_box=\box60
 )
-(./CalcVar.aux)
-\openout1 = `CalcVar.aux'.
+(./tikzsample.aux)
+\openout1 = `tikzsample.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Info: Redefining \it@ocap on input line 44.
-LaTeX Info: Redefining \it@ccap on input line 44.
- (c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Info: Redefining \it@ocap on input line 38.
+LaTeX Info: Redefining \it@ccap on input line 38.
+
+(c:/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count303
+\scratchcounter=\count301
 \scratchdimen=\dimen257
 \scratchbox=\box61
-\nofMPsegments=\count304
-\nofMParguments=\count305
+\nofMPsegments=\count302
+\nofMParguments=\count303
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count306
+\MPscratchCnt=\count304
 \MPscratchDim=\dimen258
-\MPnumerator=\count307
-\makeMPintoPDFobject=\count308
+\MPnumerator=\count305
+\makeMPintoPDFobject=\count306
 \everyMPtoPDFconversion=\toks43
 ) (c:/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -495,411 +494,24 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 (c:/texlive/2021/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+)) [1{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-
-(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
-
-
-(c:/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
-
-
-{c:/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
-
-]
-Capitolo 1.
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 6
-2.
-(c:/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [3]
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
-
- []
-
-<Fourier_onda_quadra.pdf, id=34, 397.485pt x 208.78pt>
-File: Fourier_onda_quadra.pdf Graphic file (type pdf)
-<use Fourier_onda_quadra.pdf>
-Package pdftex.def Info: Fourier_onda_quadra.pdf  used on input line 138.
-(pdftex.def)             Requested size: 198.742pt x 104.38972pt.
-[4]
-<catenaria.pdf, id=41, 741.77126pt x 473.77pt>
-File: catenaria.pdf Graphic file (type pdf)
-<use catenaria.pdf>
-Package pdftex.def Info: catenaria.pdf  used on input line 148.
-(pdftex.def)             Requested size: 296.70325pt x 189.50464pt.
- [5 <./Fourier_onda_quadra.pdf> <./catenaria.pdf
-
-pdfTeX warning: pdflatex.exe (file ./catenaria.pdf): PDF inclusion: multiple pd
-fs with page group included in a single page
->] [6
-
-]
-Capitolo 2.
-[7] [8]
-Underfull \hbox (badness 10000) in paragraph at lines 251--253
-
- []
-
-
-Overfull \hbox (52.57388pt too wide) detected at line 259
-\OML/cmm/m/it/10 H\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u[]\OT1/cmr/m/n/10 ) = [][]
- \OMS/cmsy/m/n/10 j[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 )\OMS/c
-msy/m/n/10 j[] \OML/cmm/m/it/10 dx \OT1/cmr/m/n/10 = [][] \OMS/cmsy/m/n/10 j\OT
-1/cmr/m/n/10 (\OML/cmm/m/it/10 B \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 A\OT1/cm
-r/m/n/10 )\OML/cmm/m/it/10 n\OMS/cmsy/m/n/10 j[] \OML/cmm/m/it/10 dx \OT1/cmr/m
-/n/10 = \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 B \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it
-/10 A\OMS/cmsy/m/n/10 j[][][] ! \OT1/cmr/m/n/10 0 []\OML/cmm/m/it/10 n \OMS/cms
-y/m/n/10 ! 1
- []
-
-<u-n.pdf, id=90, 540.0175pt x 349.305pt>
-File: u-n.pdf Graphic file (type pdf)
-<use u-n.pdf>
-Package pdftex.def Info: u-n.pdf  used on input line 260.
-(pdftex.def)             Requested size: 216.00316pt x 139.71951pt.
-[9 <./u-n.pdf>] [10]
-Capitolo 3.
-[11
-
-]
-<dbr.pdf, id=116, 565.11125pt x 342.27875pt>
-File: dbr.pdf Graphic file (type pdf)
-<use dbr.pdf>
-Package pdftex.def Info: dbr.pdf  used on input line 369.
-(pdftex.def)             Requested size: 226.04048pt x 136.90906pt.
- [12]
-Underfull \hbox (badness 10000) in paragraph at lines 388--389
-
- []
-
-
-Overfull \hbox (22.81528pt too wide) detected at line 401
-\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u \OT1/cmr/m/n/10 + \OML/cm
-m/m/it/10 tv\OT1/cmr/m/n/10 ) = \OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/i
-t/10 u\OT1/cmr/m/n/10 ) + 2\OML/cmm/m/it/10 t [][] [][] \OT1/cmr/m/n/10 + \OML/
-cmm/m/it/10 t[] [][] [] \OMS/cmsy/m/n/10 ) \OML/cmm/m/it/10 ^^NF\OT1/cmr/m/n/10
- (\OML/cmm/m/it/10 u; v\OT1/cmr/m/n/10 ) = [] [] = 2 [][] [][]
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [13 <./dbr.pdf>] [14]
-Capitolo 4.
-
-Underfull \hbox (badness 10000) in paragraph at lines 447--448
-
- []
-
-
-Overfull \hbox (5.2919pt too wide) in paragraph at lines 477--480
-[]\T1/cmr/bx/n/10 Esempio 11. []\T1/cmr/m/n/10 Con-si-de-ria-mo la stes-sa $\OM
-L/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 )$\T1/cmr/m/n
-/10 , ma ades-so $\U/msb/m/n/10 X \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OML/cmm/
-m/it/10 u \OMS/cmsy/m/n/10 2 \OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10 ([0\OML/cmm/m/
-it/10 ; \OT1/cmr/m/n/10 1])\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 u\OT1/cmr/m/n/10 
-(0) =
- []
-
-[15
-
-]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [16]
-Overfull \hbox (3.85275pt too wide) in paragraph at lines 538--540
-[]\T1/cmr/bx/n/10 Esempio 14. []$\U/msb/m/n/10 X \OT1/cmr/m/n/10 = \OMS/cmsy/m/
-n/10 f\OML/cmm/m/it/10 u \OMS/cmsy/m/n/10 2 \OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10
- ([0\OML/cmm/m/it/10 ; \OT1/cmr/m/n/10 1])\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 u\
-OT1/cmr/m/n/10 (0) = \OML/cmm/m/it/10 u\OT1/cmr/m/n/10 (1) + 5\OMS/cmsy/m/n/10 
-g ) \OML/cmm/m/it/10 V \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 f\OML/cmm/m/it/10 v \
-OMS/cmsy/m/n/10 2 \OML/cmm/m/it/10 C[]\OT1/cmr/m/n/10 ([0\OML/cmm/m/it/10 ; \OT
-1/cmr/m/n/10 1])\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 v\OT1/cmr/m/n/10 (0) =
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17]
-[18]
-Capitolo 5.
-[19
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 643--645
-
- []
-
-
-Underfull \vbox (badness 2538) has occurred while \output is active []
-
- [20]
-[21]
-Overfull \hbox (34.98125pt too wide) detected at line 750
-[] \OMS/cmsy/m/n/10 ) []\OML/cmm/m/it/10 x \OMS/cmsy/m/n/10 2 \OT1/cmr/m/n/10 [
-\OML/cmm/m/it/10 a; b\OT1/cmr/m/n/10 ][][](\OML/cmm/m/it/10 x\OT1/cmr/m/n/10 ) 
-\OMS/cmsy/m/n/10 6\OT1/cmr/m/n/10 = 0[]
- []
-
-
-Underfull \vbox (badness 3907) has occurred while \output is active []
-
- [22]
-[23] [24
-
-]
-Capitolo 6.
-
-Underfull \hbox (badness 10000) in paragraph at lines 775--776
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 795--797
-
- []
-
-[25]
-Overfull \hbox (6.1314pt too wide) detected at line 834
-\OML/cmm/m/it/10 L\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; s; p\OT1/cmr/m/n/10 ) = 
-\OML/cmm/m/it/10 p[] \OMS/cmsy/m/n/10 ) \OT1/cmr/m/n/10 [\OML/cmm/m/it/10 L[]\O
-T1/cmr/m/n/10 (\OML/cmm/m/it/10 x; s; p\OT1/cmr/m/n/10 )][] = \OML/cmm/m/it/10 
-L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; s; p\OT1/cmr/m/n/10 ) \OMS/cmsy/m/n/10 
-) \OT1/cmr/m/n/10 (4[])[] = 0 \OMS/cmsy/m/n/10 ) [] \OT1/cmr/m/n/10 = \OML/cmm/
-m/it/10 c:te \OMS/cmsy/m/n/10 ) \OML/cmm/m/it/10 u \OT1/cmr/m/n/10 = []
- []
-
-
-Overfull \hbox (109.59738pt too wide) detected at line 838
-\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 w\OT1/cmr/m/n/10 ) = \OML/c
-mm/m/it/10 F\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 u \OT1/cmr/m/n/10 + \OML/cmm/m/it
-/10 v\OT1/cmr/m/n/10 ) = [][]([] + [])[] = [][]([] + [] + [])
- []
-
-[26]
-<doppio-pozzo.pdf, id=184, 361.35pt x 198.7425pt>
-File: doppio-pozzo.pdf Graphic file (type pdf)
-<use doppio-pozzo.pdf>
-Package pdftex.def Info: doppio-pozzo.pdf  used on input line 859.
-(pdftex.def)             Requested size: 144.53743pt x 79.49557pt.
-<capitolo6.pdf, id=185, 597.50786pt x 845.04686pt>
-File: capitolo6.pdf Graphic file (type pdf)
-<use capitolo6.pdf>
-Package pdftex.def Info: capitolo6.pdf  used on input line 881.
-(pdftex.def)             Requested size: 179.25374pt x 253.516pt.
- [27 <./doppio-pozzo.pdf>]
-Overfull \hbox (18.18683pt too wide) in paragraph at lines 885--886
-[]\T1/cmr/m/n/10 Minimizziamo ades-so $\OML/cmm/m/it/10 F\OT1/cmr/m/n/10 (\OML/
-cmm/m/it/10 u\OT1/cmr/m/n/10 ) = [][][([] \OMS/cmsy/m/n/10 ^^@ \OT1/cmr/m/n/10 
-1)[] + []]$\T1/cmr/m/n/10 .
- []
-
-[28 <./capitolo6.pdf>]
-Capitolo 7.
-
-Overfull \hbox (17.37602pt too wide) in paragraph at lines 894--895
-[] 
- []
-
-<capitolo7.pdf, id=228, 597.50786pt x 845.04686pt>
-File: capitolo7.pdf Graphic file (type pdf)
-<use capitolo7.pdf>
-Package pdftex.def Info: capitolo7.pdf  used on input line 903.
-(pdftex.def)             Requested size: 119.49945pt x 169.00638pt.
-
-Overfull \hbox (25.9999pt too wide) in paragraph at lines 892--906
-[]$[]$   $[]$ 
- []
-
-[29
-
- <./capitolo7.pdf>]
-Overfull \hbox (34.70193pt too wide) detected at line 970
-\OML/cmm/m/it/10  []\OT1/cmr/m/n/10 (0) = [][][\OML/cmm/m/it/10 L[] \OMS/cmsy/m
-/n/10 ^^@ \OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 ]\OML/cmm/m/it/10 v \OT1/cmr/m/n/
-10 + \OML/cmm/m/it/10 L[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; u\OT1/cmr/m/n/1
-0 (\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 (\
-OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ))[](\OML/cmm/m/it/10 x[]\OT1/cmr/m/n/10 ) +
- \OML/cmm/m/it/10 L\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x[]; u\OT1/cmr/m/n/10 (\OM
-L/cmm/m/it/10 x[]\OT1/cmr/m/n/10 )\OML/cmm/m/it/10 ; []\OT1/cmr/m/n/10 (\OML/cm
-m/m/it/10 x[]\OT1/cmr/m/n/10 ))(\OMS/cmsy/m/n/10 ^^@[]\OT1/cmr/m/n/10 )
- []
-
-
-Underfull \vbox (badness 1509) has occurred while \output is active []
-
- [30]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [31]
-Underfull \hbox (badness 10000) in paragraph at lines 1028--1030
-
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [32]
-[33] [34
-
-]
-Capitolo 8.
-
-Overfull \hbox (57.94347pt too wide) detected at line 1090
-[] \OMS/cmsy/m/n/10 ! [][]\OT1/cmr/m/n/10 [\OML/cmm/m/it/10 a; b\OT1/cmr/m/n/10
- ] \OMS/cmsy/m/n/10 n f[]g
- []
-
-[35]
-Underfull \hbox (badness 10000) in paragraph at lines 1098--1101
-
- []
-
-[36] [37] [38
-
-]
-Capitolo 9.
-[39] [40] [41]
-Overfull \hbox (31.44733pt too wide) detected at line 1284
-\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 S[] \OMS/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 S[
-]\OMS/cmsy/m/n/10 j[] \OT1/cmr/m/n/10 = \OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 v[]e
-[] \OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 v[]e[]\OMS/cmsy/m/n/10 j[] \OT1/cmr/
-m/n/10 = [] = \OML/cmm/m/it/10 v[] \OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 v[] 
-\OT1/cmr/m/n/10 = [] \OMS/cmsy/m/n/10 ^^@ []
- []
-
-[42]
-Capitolo 10.
-[43
-
-] [44]
-Underfull \hbox (badness 10000) in paragraph at lines 1375--1376
-
- []
-
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 1384--1385
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1386--1387
-
- []
-
-
-Overfull \hbox (26.78923pt too wide) detected at line 1387
-\OML/cmm/m/it/10 < v[]; w >\OT1/cmr/m/n/10 = \OML/cmm/m/it/10 w[] < v[]; e[] > 
-\OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 w[] < v[]; e[] >\OMS/cmsy/m/n/10 ! \OML
-/cmm/m/it/10 w[][] \OT1/cmr/m/n/10 + [] + \OML/cmm/m/it/10 w[][] \OT1/cmr/m/n
-/10 =\OML/cmm/m/it/10 < v[]; w >
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1387--1388
-
- []
-
-
-Underfull \vbox (badness 2726) has occurred while \output is active []
-
- [46]
-[47] [48
-
-]
-Capitolo 11.
-
-Overfull \hbox (52.75258pt too wide) detected at line 1433
-\OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 < v[]; w[] > \OMS/cmsy/m/n/10 ^^@ \OML/cmm/
-m/it/10 < v[]; w[] > \OMS/cmsy/m/n/10 j ^^T j \OML/cmm/m/it/10 < v[]; w[] > \OM
-S/cmsy/m/n/10 ^^@ \OML/cmm/m/it/10 < v[]; w[] > \OMS/cmsy/m/n/10 j \OT1/cmr/m/n
-/10 + \OMS/cmsy/m/n/10 j \OML/cmm/m/it/10 < v[]; w[] > \OMS/cmsy/m/n/10 ^^@ \OM
-L/cmm/m/it/10 < v[]; w[] >
- []
-
-
-Underfull \vbox (badness 1221) has occurred while \output is active []
-
- [49]
-Underfull \hbox (badness 10000) in paragraph at lines 1441--1443
-
- []
-
-[50] [51] [52]
-Capitolo 12.
-[53
-
-] [54] [55] [56]
-Capitolo 13.
-[57
-
-] [58] [59] [60]
-Capitolo 14.
-[61
-
-] [62]
-Overfull \hbox (8.6411pt too wide) in paragraph at lines 1845--1847
-\T1/cmr/m/n/10 Dalla se-con-da se-gue che le $\OMS/cmsy/m/n/10 f\OML/cmm/m/it/1
-0 u[]\OMS/cmsy/m/n/10 g$ \T1/cmr/m/n/10 so-no equi-$[]$-Hoelderiane quin-di ho 
-equi-continuità,
- []
-
-[63]
-Underfull \hbox (badness 10000) in paragraph at lines 1863--1865
-
- []
-
-[64] (./CalcVar.aux) ) 
+] (./tikzsample.aux) ) 
 Here is how much of TeX's memory you used:
- 14393 strings out of 478994
- 273124 string characters out of 5862207
- 563402 words of memory out of 5000000
- 31596 multiletter control sequences out of 15000+600000
- 429425 words of font info for 81 fonts, out of 8000000 for 9000
+ 14204 strings out of 478994
+ 270248 string characters out of 5862207
+ 551292 words of memory out of 5000000
+ 31465 multiletter control sequences out of 15000+600000
+ 405012 words of font info for 29 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,22n,89p,531b,641s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,6n,89p,406b,555s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-s
-uper-t1.enc}{c:/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.e
-nc}<c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/te
-xlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/202
-1/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2021/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2021/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmr5.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pf
-b><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texli
-ve/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2021/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><c:/texlive/2021/texmf-dist/
-fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2021/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/sy
-mbols/msam10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msbm10.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/ms
-bm7.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb><c
-:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/
-2021/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb><c:/texlive/2021/texmf
--dist/fonts/type1/public/cm-super/sfbx2074.pfb><c:/texlive/2021/texmf-dist/font
-s/type1/public/cm-super/sfbx2488.pfb><c:/texlive/2021/texmf-dist/fonts/type1/pu
-blic/cm-super/sfrm0600.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-su
-per/sfrm0700.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm08
-00.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb><c:
-/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2
-021/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2021/texmf-
-dist/fonts/type1/public/cm-super/sfrm1728.pfb><c:/texlive/2021/texmf-dist/fonts
-/type1/public/cm-super/sfsl1000.pfb><c:/texlive/2021/texmf-dist/fonts/type1/pub
-lic/cm-super/sfss1000.pfb><c:/texlive/2021/texmf-dist/fonts/type1/public/cm-sup
-er/sfti1000.pfb>
-Output written on CalcVar.pdf (64 pages, 650144 bytes).
+uper-t1.enc}<c:/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pf
+b>
+Output written on tikzsample.pdf (1 page, 3561 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 322 compressed objects within 4 object streams
+ 16 PDF objects out of 1000 (max. 8388607)
+ 11 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 48 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
